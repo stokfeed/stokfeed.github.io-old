@@ -1,0 +1,15 @@
+# Stokfeed
+
+Stokfeed is an independent financial news and commentary publication covering equities, ETFs, foreign exchange, cryptocurrency and original market research. Articles are informational and not personalized investment advice.
+
+## Important pages
+- https://www.stokfeed.us/ — Latest market news and featured research
+- https://www.stokfeed.us/nyse.html — NYSE & S&P 500: The latest U.S. equity market reports.
+- https://www.stokfeed.us/qqq.html — QQQ: Weekly Nasdaq-100 ETF reporting.
+- https://www.stokfeed.us/4x.html — Forex: Major currency movements and exchange-rate reporting.
+- https://www.stokfeed.us/crypto.html — Crypto: Digital-asset market reports.
+- https://www.stokfeed.us/research.html — Research & Opinion: Independent analysis from the Stokfeed editorial desk.
+- https://www.stokfeed.us/sitemap.xml — Complete index of published articles
+
+## Latest articles
+- https://www.stokfeed.us/story-research-post-2026-11-12-welcome.html — Welcome to Stokfeed
